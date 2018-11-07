@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: bd2e1a11826330f4294620ed925db439
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AnkleL
+    100002: AnkleR
+    100004: ArmL
+    100006: ArmR
+    100008: Ctrl_footL
+    100010: Ctrl_footR
+    100012: Ctrl_Hand_L
+    100014: Ctrl_Hand_R
+    100016: Dummy01
+    100018: Dummy02
+    100020: Dummy03
+    100022: FootL
+    100024: footR
+    100026: ForearmL
+    100028: ForearmR
+    100030: HandL
+    100032: HandR
+    100034: head
+    100036: hphuman_lvl1
+    100038: //RootNode
+    100040: IK Chain01
+    100042: IK Chain02
+    100044: IK Chain03
+    100046: IK Chain04
+    100048: IK Chain05
+    100050: IK Chain06
+    100052: Ik_goal_L
+    100054: Ik_goal_R
+    100056: neck
+    100058: shinL
+    100060: shinR
+    100062: spine1
+    100064: spine2
+    100066: tight_R
+    100068: tightL
+    400000: AnkleL
+    400002: AnkleR
+    400004: ArmL
+    400006: ArmR
+    400008: Ctrl_footL
+    400010: Ctrl_footR
+    400012: Ctrl_Hand_L
+    400014: Ctrl_Hand_R
+    400016: Dummy01
+    400018: Dummy02
+    400020: Dummy03
+    400022: FootL
+    400024: footR
+    400026: ForearmL
+    400028: ForearmR
+    400030: HandL
+    400032: HandR
+    400034: head
+    400036: hphuman_lvl1
+    400038: //RootNode
+    400040: IK Chain01
+    400042: IK Chain02
+    400044: IK Chain03
+    400046: IK Chain04
+    400048: IK Chain05
+    400050: IK Chain06
+    400052: Ik_goal_L
+    400054: Ik_goal_R
+    400056: neck
+    400058: shinL
+    400060: shinR
+    400062: spine1
+    400064: spine2
+    400066: tight_R
+    400068: tightL
+    2300000: Ctrl_footL
+    2300002: Ctrl_footR
+    2300004: Ctrl_Hand_L
+    2300006: Ctrl_Hand_R
+    3300000: Ctrl_footL
+    3300002: Ctrl_footR
+    3300004: Ctrl_Hand_L
+    3300006: Ctrl_Hand_R
+    4300000: hphuman_lvl1
+    4300002: Ctrl_footR
+    4300004: Ctrl_footL
+    4300006: Ctrl_Hand_R
+    4300008: Ctrl_Hand_L
+    7400000: anim_test_delete_it
+    11100000: //RootNode
+    13700000: hphuman_lvl1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e1f964afea8a3e9488ec14fe55a70d09, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: anim_test_delete_it
+      takeName: 
+      firstFrame: 10
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
